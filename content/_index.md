@@ -8,10 +8,9 @@ sections:
     text: |
       <br>
 
-      The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+      The **Marine Disturbing Organisms Research Center** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
     title: |
-      Wowchemy
-      Research Group
+      Marine D O R C
 - block: collection
   content:
     count: 5
