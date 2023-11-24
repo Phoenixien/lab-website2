@@ -8,9 +8,9 @@ sections:
     text: |
       <br>
 
-      The **Marine Disturbing Organisms Research Center** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+      The objective of the **META OCEANS Research Group** is to conduct...
     title: |
-      Marine D O R C
+      META OCEANS
 - block: collection
   content:
     count: 5

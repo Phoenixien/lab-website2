@@ -22,7 +22,7 @@ interests:
 last_name: Kim
 organizations:
 - name: Chonnam National University
-  url: ""
+  url: "https://www.jnu.ac.kr/jnumain.aspx"
 role: Professor of Marine Ecology
 social:
 - icon: envelope
@@ -43,6 +43,4 @@ user_groups:
 - Professors
 ---
 
-Kim Kwang Young is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kim Kwang Young is a professor ...
