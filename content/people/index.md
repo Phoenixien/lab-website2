@@ -10,6 +10,7 @@ sections:
     - Principal Investigators
     - Professors
     - Researchers
+    - PhD
     - Grad Students
     - Undergrad Students
     - Administration
