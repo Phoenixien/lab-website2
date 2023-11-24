@@ -8,23 +8,23 @@ education:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Mst in Oceanographic Sciences
+    institution: Chonnam National University
+    year: 2026
+  - course: BSc in Biological Sciences
+    institution: University of Liège
+    year: 2022
 email: ""
-first_name: Alice
+first_name: Vincent
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Wu
+last_name: Bouche
 organizations:
-- name: Stanford University
+- name: Chonnam National University
   url: ""
-role: Professor of Artificial Intelligence
+role: Research student in Marine Biology
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,12 +39,11 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: false
-title: Alice Wu 吳恩達
+title: Vincent Bouche
 user_groups:
 - Researchers
-- Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Vincent Bouche is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
