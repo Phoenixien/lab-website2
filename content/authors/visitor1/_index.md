@@ -1,30 +1,27 @@
 ---
 authors:
-- 吳恩達
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+- Daehyun Bouche
+bio: My research interests include marine species population and communities matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
   - course: Mst in Oceanographic Sciences
     institution: Chonnam National University
-    year: 2026
+    year: 202~
   - course: BSc in Biological Sciences
     institution: University of Liège
     year: 2022
-email: ""
-first_name: Vincent
+email: "daehyunbouche@gmail.com"
+first_name: Daehyun
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Marine predator populations and communities
+- Phytoplankton communities
+- Sharks' behaviour
+- R language
+- Analytical statistics
 last_name: Bouche
 organizations:
 - name: Chonnam National University
-  url: ""
-role: Research student in Marine Biology
+  url: Research student in Marine Biology
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,11 +36,9 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: false
-title: Vincent Bouche
+title: Daehyun Bouche
 user_groups:
 - Visitors
 ---
 
-Vincent Bouche is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Daehyun Bouche is a master student in Oceanogrphy at Chonnam National University.
