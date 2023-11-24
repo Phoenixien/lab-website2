@@ -56,7 +56,7 @@ sections:
   content:
     subtitle: null
     text: |
-      {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      {{% cta cta_link="./team/" cta_text="Meet the team →" %}}
     title: null
   design:
     columns: "1"
