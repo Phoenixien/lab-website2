@@ -4,9 +4,9 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
-      country: United States
-      country_code: US
+      city: Gwangju
+      country: Republic Of Korea
+      country_code: KR
       postcode: "94305"
       region: CA
       street: 450 Serra Mall
@@ -26,7 +26,7 @@ sections:
     office_hours:
     - Monday 10:00 to 13:00
     - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
+    phone: +82 62 530 04 65
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus
       augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor
       ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus
